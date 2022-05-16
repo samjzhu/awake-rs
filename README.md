@@ -15,3 +15,7 @@ OPTIONS:
 ### Release Build:
 #### Windows
 https://github.com/samjzhu/awake-rs/blob/main/target/release/awakers.exe
+
+### Related Python Project:
+  https://github.com/samjzhu/awake
+  
