@@ -9,7 +9,7 @@ use rdev::{simulate, EventType, SimulateError, display_size};
 async fn main() {
     let matches = Command::new("awake")
         .arg(
-            arg!([INTERVAL] ).default_value("60")
+            arg!([INTERVAL] ).default_value("30")
                 .help("Interval time to check in seconds"),
         )
         .get_matches();
